@@ -1,2 +1,2 @@
-# dlnd_face_generation
-face generation
+# 人脸生成项目
+
